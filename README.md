@@ -28,12 +28,21 @@ Game Elements:
     
 Game Initialization:
 
-    Rewards / penalties and the walls are placed on the board randomly at the beginning of the game. Rewards and penalties cannot be located on the treasure square. Boards        consist of randomly placed penalties or rewards for the players. In 1D board, there are randomly generated 8 rewards / penalties (1 set of 1D rewards/penalties (8 types): @, #, ►, ◄, *, L, X, and N) In 2D board there are randomly generated 40 rewards / penalties (4 sets of all rewards/penalties (10 types)). 2D rewards/penalties also include: and . There can be no more than 4 rewards/penalties in the same row or column.
+    Rewards / penalties and the walls are placed on the board randomly at the beginning of the game.
+    Rewards and penalties cannot be located on the treasure square. Boards consist of randomly placed penalties or rewards for the players. 
+    In 1D board, there are randomly generated 8 rewards / penalties (1 set of 1D rewards/penalties (8 types): @, #, ►, ◄, *, L, X, and N) 
+    In 2D board there are randomly generated 40 rewards / penalties (4 sets of all rewards/penalties (10 types)). 
+    2D rewards/penalties also include: and . There can be no more than 4 rewards/penalties in the same row or column.
     
     
 Game Playing Rules:
 
-    Initially players have one life each. If a player loses all his lifes, other player wins. In 1D board, the moves by throwing dice are always to the right. In 2D board, the moves by throwing dice are to the right or down randomly. If the player comes to a reward/penalty square, and this reward/penalty sends the player to another reward/penalty, all the subsequent rewards/penalties are applied (max. 20 rewards/penalties). In the case of exceeding the board limits, the player cannot move and stays in his/her place, other player's turn begins. If the players meet on the same square, the newcomer sends the other player to the starting point.
+    Initially players have one life each. If a player loses all his lifes, other player wins. 
+    In 1D board, the moves by throwing dice are always to the right. In 2D board, the moves by throwing dice are to the right or down randomly. 
+    If the player comes to a reward/penalty square, and this reward/penalty sends the player to another reward/penalty, 
+    all the subsequent rewards/penalties are applied (max. 20 rewards/penalties). In the case of exceeding the board limits, 
+    the player cannot move and stays in his/her place, other player's turn begins. If the players meet on the same square, 
+    the newcomer sends the other player to the starting point.
     
 
   
