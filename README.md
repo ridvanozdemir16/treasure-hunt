@@ -2,8 +2,8 @@ This is a group project that are made for CME1251 Project Based Learning class a
 
 Group Members:
   
-   Emirhan KAYA - https://github.com/EmirhanK17
-   Pınar BEŞİR
+    Emirhan KAYA - https://github.com/EmirhanK17
+    Pınar BEŞİR
    
    
 The aim of the project is to develop a two-player, two-level strategy game in which rewards and penalties determine the way of players to the treasure. The first player who reaches the treasure wins the game.
